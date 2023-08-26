@@ -1,0 +1,21 @@
+{
+  "name": "hato1125",
+  "displayName": "DeepDark",
+  "description": "black theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DeepDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepDark-color-theme.json"
+      }
+    ]
+  }
+}
